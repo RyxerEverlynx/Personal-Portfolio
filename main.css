@@ -26,7 +26,7 @@ html{
 }
 
 .home{
-  background-image: url("../imgs/bg.jpg");
+  background-image: url("imgs/bg.jpg");
   background-size: 200vh;
   background-attachment: fixed;
 }
